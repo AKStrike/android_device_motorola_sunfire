@@ -18,4 +18,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/sunfire.mk
+    $(LOCAL_DIR)/device_sunfire.mk
